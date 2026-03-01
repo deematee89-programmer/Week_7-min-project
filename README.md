@@ -1,4 +1,3 @@
-========================================================================================
 W7 min project Analysis Pipeline
 ========================================================================================
 This project implements a structured exploratory data analysis process to
